@@ -1,5 +1,5 @@
 # P6_OC_Pizza
-Project 6 of openclassroom journey
+#### Project 6 of openclassroom journey
 
 ### OC-Pizza : Analysez les besoins de votre client pour son groupe de pizzerias
 
